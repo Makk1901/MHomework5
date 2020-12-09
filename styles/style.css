@@ -1,0 +1,25 @@
+nav{
+	color: #FFFFFF;
+	font-size: 48px;
+}
+.box{
+	width: 1286px;
+	height: 700px;
+	background-color: #56836F;
+	border: solid #006837;
+
+}
+.box1{
+	width: 617px;
+	height: 356px;
+	background-color: #FCEE21;
+	border:solid #707070;
+
+}
+.box2{
+	width: 523px;
+	height: 356px;
+	background-color: #FCEE21;
+	border:solid #707070;
+	
+}
